@@ -3,6 +3,7 @@ b= 10
 c = 3
 
 def numero(num):
+  
 
     ress = ""
 
